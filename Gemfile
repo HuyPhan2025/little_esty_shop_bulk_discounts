@@ -39,6 +39,7 @@ group :development, :test do
   gem 'faker'
   gem 'launchy'
   gem 'orderly'
+  gem 'net-http'
   gem 'pry'
   gem 'rspec-rails', '~> 4.0.1'
   gem 'shoulda-matchers'
